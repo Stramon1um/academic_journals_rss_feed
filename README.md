@@ -14,7 +14,7 @@ List of **RSS feed** links for the most ranked academic and scientific journals 
 
 -->
 
-## Plant Science {name=plantscience}
+## Plant Science
 
 1.  Annual Review of Plant Biology - [Home](https://www.annualreviews.org/journal/arplant) - [RSS](https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=sr&jc=arplant&type=etoc&feed=atom) :seedling: :dna:
 
