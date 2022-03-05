@@ -1,6 +1,6 @@
 # Academic Journals RSS feed
 
-List of **RSS feed** links for the most ranked academic and scientific journals in the category of **Plant Science** (included in **Agricultural and Biological Sciences** subject). This list is based on Scimago Journal & Country Rank in 2020 [SJR](https://www.scimagojr.com). See `scimagojr_2020_Subject_Category_Plant_Science.csv` for extra info and details.
+List of **RSS feed** links for the most ranked academic and scientific journals in the category of **Plant Science** (included in **Agricultural and Biological Sciences** subject). This list is based on Scimago Journal & Country Rank in 2020 ([SJR](https://www.scimagojr.com)). See `scimagojr_2020_Subject_Category_Plant_Science.csv` for extra info and details.
 
 *I will add journals slowly slowly...so be patient* :blush: *and feel free to contribute with other research subject and/or categories*
 
