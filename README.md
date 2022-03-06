@@ -6,6 +6,33 @@ List of **RSS feed** links for the most ranked academic and scientific journals 
 
 <!--#  
 
+Emoji for all subject areas:
+
+- Agricultural and Biological Sciences :seedling:
+- Arts and Humanities :art:
+- Biochemistry, Genetics and Molecular Biology :dna:
+- Business, Management and Accounting :moneybag:
+- Chemical Engineering :goggles:
+- Chemistry :test_tube:
+- Dentistry :tooth:
+- Earth and Planetary Sciences :earth_africa:
+- Economics, Econometrics and Finance :chart_with_upwards_trend:
+- Energy :battery:
+- Environmental Science :volcano:
+- Health Professions :ambulance
+- Immunology and Microbiology :microbe:
+- Material Science :hammer_and_wrench:
+- Mathematics :1234:
+- Medicine :stethoscope:
+- Multidisciplinary :package:
+- Neuroscience :brain:
+- Nursing :syringe:
+- Pharmacology, Toxicology and Pharmaceutics :pill:
+- Physics and Astronomy :telescope: 
+- Psychology :couch_and_lamp:
+- Social Sciences :handshake:
+- Veterinary :cat2:
+
 # Table of Contents
 
 1.  [Plant Science](#plantscience)
