@@ -36,6 +36,16 @@ List of **RSS feed** links for the most ranked academic and scientific journals 
 
 10. Persoonia: Molecular Phylogeny and Evolution of Fungi - :unlock: [Home](https://www.persoonia.org) - [RSS](https://api.ingentaconnect.com/content/nhn/pimj/latest?format=rss) :seedling: :dna: :mushroom:
 
+11. Current Opinion in Plant Biology - [Home](https://www.journals.elsevier.com/current-opinion-in-plant-biology) - [RSS](https://rss.sciencedirect.com/publication/science/13695266) :seedling:
+
+12. BMC Biology - :unlock: [Home](https://bmcbiol.biomedcentral.com) - [RSS](https://bmcbiol.biomedcentral.com/articles/most-recent/rss.xml) :seedling: :dna: :test_tube:
+
+13. New Phytologist - [Home](https://nph.onlinelibrary.wiley.com/journal/14698137) - [RSS](https://nph.onlinelibrary.wiley.com/feed/14698137/most-recent) :seedling:
+
+14. Plant Physiology - [Home](https://academic.oup.com/plphys) - [RSS](https://academic.oup.com/rss/site_6323/4080.xml) :seedling: :dna:
+
+15. Plant Biotechnology Journal - :unlock: [Home](https://onlinelibrary.wiley.com/journal/14677652) - [RSS](https://onlinelibrary.wiley.com/feed/14677652/most-recent) :seedling: :dna:
+
 <!--# 
 
 ## Example2 {name=example2}
