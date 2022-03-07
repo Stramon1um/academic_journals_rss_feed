@@ -11,7 +11,7 @@ Quick (temporary) key description for Journal subject areas:
 - :seedling: Agricultural and Biological Sciences 
 - :dna: Biochemistry, Genetics and Molecular Biology 
 - :volcano: Environmental Science 
-- :stethoscope: Medicine :stethoscope:
+- :stethoscope: Medicine 
 
 <!--#  
 
