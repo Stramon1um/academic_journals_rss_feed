@@ -6,6 +6,8 @@ List of **RSS feed** links for the most ranked academic and scientific journals 
 
 <!--#  
 
+Open Access Journal :unlock:
+
 Emoji for all subject areas:
 
 - Agricultural and Biological Sciences :seedling:
