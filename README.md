@@ -94,7 +94,7 @@ Emoji for all subject areas:
 
 26. Frontiers in Plant Science - :unlock: [Home](https://www.frontiersin.org/journals/plant-science) - [RSS](https://www.frontiersin.org/journals/plant-science/rss) :seedling: 
 
-27. IMA Fungus - :unlock: [Home](https://imafungus.biomedcentral.com) - [RSS]https://imafungus.biomedcentral.com/articles/most-recent/rss.xml) :seedling:
+27. IMA Fungus - :unlock: [Home](https://imafungus.biomedcentral.com) - [RSS](https://imafungus.biomedcentral.com/articles/most-recent/rss.xml) :seedling:
 
 28. Critical Reviews in Plant Sciences - [Home](https://www.tandfonline.com/loi/bpts20) - [RSS](https://www.tandfonline.com/feed/rss/bpts20) :seedling:
 
