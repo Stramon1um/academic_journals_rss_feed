@@ -4,9 +4,9 @@ List of **RSS feed** links for the most ranked academic and scientific journals 
 
 *I will add journals slowly slowly...so be patient* :blush: *and feel free to contribute with other research subject and/or categories*
 
-<!--#  
+Open Access Journal: :unlock:
 
-Open Access Journal :unlock:
+<!--#  
 
 Emoji for all subject areas:
 
