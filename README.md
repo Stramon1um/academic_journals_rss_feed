@@ -8,10 +8,10 @@ Open Access Journal: :unlock:
 
 Quick (temporary) key description for Journal subject areas:
 
-- Agricultural and Biological Sciences :seedling:
-- Biochemistry, Genetics and Molecular Biology :dna:
-- Environmental Science :volcano:
-- Medicine :stethoscope:
+- :seedling: Agricultural and Biological Sciences 
+- :dna: Biochemistry, Genetics and Molecular Biology 
+- :volcano: Environmental Science :volcano:
+- :stethoscope: Medicine :stethoscope:
 
 <!--#  
 
