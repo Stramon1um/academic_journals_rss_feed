@@ -6,6 +6,13 @@ List of **RSS feed** links for the most ranked academic and scientific journals 
 
 Open Access Journal: :unlock:
 
+Quick (temporary) key description for Journal subject areas:
+
+- Agricultural and Biological Sciences :seedling:
+- Biochemistry, Genetics and Molecular Biology :dna:
+- Environmental Science :volcano:
+- Medicine :stethoscope:
+
 <!--#  
 
 Emoji for all subject areas:
