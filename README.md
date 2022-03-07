@@ -75,6 +75,7 @@ Emoji for all subject areas:
 11. Current Opinion in Plant Biology - [Home](https://www.journals.elsevier.com/current-opinion-in-plant-biology) - [RSS](https://rss.sciencedirect.com/publication/science/13695266) :seedling:
 
 12. BMC Biology - :unlock: [Home](https://bmcbiol.biomedcentral.com) - [RSS](https://bmcbiol.biomedcentral.com/articles/most-recent/rss.xml) :seedling: :dna: 
+
 13. New Phytologist - [Home](https://nph.onlinelibrary.wiley.com/journal/14698137) - [RSS](https://nph.onlinelibrary.wiley.com/feed/14698137/most-recent) :seedling: :dna:
 
 14. Plant Physiology - [Home](https://academic.oup.com/plphys) - [RSS](https://academic.oup.com/rss/site_6323/4080.xml) :seedling: :dna:
