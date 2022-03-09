@@ -116,11 +116,21 @@ Emoji for all subject areas:
 
 32. Rice - :unlock: [Home](https://thericejournal.springeropen.com) - [RSS](https://thericejournal.springeropen.com/articles/most-recent/rss.xml) :seedling: 
 
-33. Plant Reproduction - :unlock: [Home](https://www.springer.com/journal/497) - [RSS](https://link.springer.com/search.rss?search-within=Journal&facet-journal-id=497&query=) :seedling: :dna:
+33. Plant Reproduction - [Home](https://www.springer.com/journal/497) - [RSS](https://link.springer.com/search.rss?search-within=Journal&facet-journal-id=497&query=) :seedling: :dna:
 
-34. Plant Science - :unlock: [Home](https://www.journals.elsevier.com/plant-science) - [RSS](https://rss.sciencedirect.com/publication/science/01689452) :seedling: :dna: :stethoscope:
+34. Plant Science - [Home](https://www.journals.elsevier.com/plant-science) - [RSS](https://rss.sciencedirect.com/publication/science/01689452) :seedling: :dna: :stethoscope:
 
-35. Fungal Biology Reviews - :unlock: [Home](https://www.journals.elsevier.com/fungal-biology-reviews) - [RSS](https://rss.sciencedirect.com/publication/science/17494613) :seedling: :microbe:
+35. Fungal Biology Reviews - [Home](https://www.journals.elsevier.com/fungal-biology-reviews) - [RSS](https://rss.sciencedirect.com/publication/science/17494613) :seedling: :microbe:
+
+36. Plant Molecular Biology - [Home](https://www.springer.com/journal/11103) - [RSS](https://link.springer.com/search.rss?search-within=Journal&facet-journal-id=11103&query=) :seedling: :dna: :stethoscope:
+
+37. Crop Journal - :unlock: [Home](https://www.keaipublishing.com/en/journals/the-crop-journal/) - [RSS](...) :seedling: 
+
+38. Mycosphere - :unlock: [Home](https://mycosphere.org) - [RSS](...) :seedling: 
+
+39. Environmental and Experimental Botany - [Home](https://www.journals.elsevier.com/environmental-and-experimental-botany) - [RSS](https://rss.sciencedirect.com/publication/science/00988472) :seedling: 
+
+40. Tree Physiology - [Home](https://www.journals.elsevier.com/environmental-and-experimental-botany) - [RSS](https://academic.oup.com/rss/site_5247/3115.xml) :seedling: :dna:
 
 <!--# 
 
