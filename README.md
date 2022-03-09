@@ -1,12 +1,12 @@
 # Academic Journals RSS feed
 
-List of **RSS feed** links for the most ranked academic and scientific journals in the category of **Plant Science** (included in **Agricultural and Biological Sciences** subject). This list is based on Scimago Journal & Country Rank in 2020 ([SJR](https://www.scimagojr.com)). See `scimagojr_2020_Subject_Category_Plant_Science.csv` for extra info and details.
+List of **RSS feed** links of the most ranked academic and scientific journals in the category of **Plant Science** (included in **Agricultural and Biological Sciences** subject area). This list is based on Scimago Journal & Country Rank in 2020 ([SJR](https://www.scimagojr.com)). See `scimagojr_2020_Subject_Category_Plant_Science.csv` for extra info and details.
 
 *I will add journals slowly slowly...so be patient* :blush: *and feel free to contribute with other research subject and/or categories*
 
 Open Access Journal: :unlock:
 
-Quick (temporary) key description for Journal subject areas:
+Quick (temporary) key description of Journal subject areas:
 
 - :seedling: Agricultural and Biological Sciences 
 - :dna: Biochemistry, Genetics and Molecular Biology 
@@ -111,6 +111,16 @@ Emoji for all subject areas:
 29. Journal of Fungi - :unlock: [Home](https://www.mdpi.com/journal/jof) - [RSS](https://www.mdpi.com/rss/journal/jof) :seedling: :stethoscope:
 
 30. European Journal of Agronomy - [Home](https://www.sciencedirect.com/journal/european-journal-of-agronomy) - [RSS](https://rss.sciencedirect.com/publication/science/11610301) :seedling: :stethoscope:
+
+31. Annals of Botany - [Home](https://academic.oup.com/aob?login=true) - [RSS](https://academic.oup.com/rss/site_5260/3126.xml) :seedling: 
+
+32. Rice - :unlock: [Home](https://thericejournal.springeropen.com) - [RSS](https://thericejournal.springeropen.com/articles/most-recent/rss.xml) :seedling: 
+
+33. Plant Reproduction - :unlock: [Home](https://www.springer.com/journal/497) - [RSS](https://link.springer.com/search.rss?search-within=Journal&facet-journal-id=497&query=) :seedling: :dna:
+
+34. Plant Science - :unlock: [Home](https://www.journals.elsevier.com/plant-science) - [RSS](https://rss.sciencedirect.com/publication/science/01689452) :seedling: :dna: :stethoscope:
+
+35. Fungal Biology Reviews - :unlock: [Home](https://www.journals.elsevier.com/fungal-biology-reviews) - [RSS](https://rss.sciencedirect.com/publication/science/17494613) :seedling: :microbe:
 
 <!--# 
 
