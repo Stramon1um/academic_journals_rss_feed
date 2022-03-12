@@ -132,7 +132,7 @@ Emoji for all subject areas:
 
 40. Tree Physiology - [Home](https://www.journals.elsevier.com/environmental-and-experimental-botany) - [RSS](https://academic.oup.com/rss/site_5247/3115.xml) :seedling: :dna:
 
-41. Plan Genome - :unlock: [Home](https://acsess.onlinelibrary.wiley.com/journal/19403372) - [RSS]https://acsess.onlinelibrary.wiley.com/action/showFeed?jc=19403372&type=etoc&feed=rss) :seedling: :dna:
+41. Plan Genome - :unlock: [Home](https://acsess.onlinelibrary.wiley.com/journal/19403372) - [RSS](https://acsess.onlinelibrary.wiley.com/action/showFeed?jc=19403372&type=etoc&feed=rss) :seedling: :dna:
 
 42. Plant Cell Reports - [Home](https://www.springer.com/journal/299) - [RSS](https://link.springer.com/search.rss?search-within=Journal&facet-journal-id=299&query=) :seedling: :stethoscope:
 
