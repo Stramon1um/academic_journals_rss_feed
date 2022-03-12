@@ -132,6 +132,26 @@ Emoji for all subject areas:
 
 40. Tree Physiology - [Home](https://www.journals.elsevier.com/environmental-and-experimental-botany) - [RSS](https://academic.oup.com/rss/site_5247/3115.xml) :seedling: :dna:
 
+41. Plan Genome - :unlock: [Home](https://acsess.onlinelibrary.wiley.com/journal/19403372) - [RSS]https://acsess.onlinelibrary.wiley.com/action/showFeed?jc=19403372&type=etoc&feed=rss) :seedling: :dna:
+
+42. Plant Cell Reports - [Home](https://www.springer.com/journal/299) - [RSS](https://link.springer.com/search.rss?search-within=Journal&facet-journal-id=299&query=) :seedling: :stethoscope:
+
+43. Phytobiomes Journal - :unlock: [Home](https://apsjournals.apsnet.org/loi/pbiomes) - [RSS](...) :seedling: :dna: :volcano:
+
+44. BMC Plant Biology - :unlock: [Home](https://bmcplantbiol.biomedcentral.com) - [RSS](https://bmcplantbiol.biomedcentral.com/articles/most-recent/rss.xml) :seedling:
+
+45. Physiologia Plantarum - [Home](https://onlinelibrary.wiley.com/journal/13993054) - [RSS](https://onlinelibrary.wiley.com/action/showFeed?jc=13993054&type=etoc&feed=rss) :seedling: :dna: :stethoscope:
+
+46. Plant Methods - :unlock: [Home](https://plantmethods.biomedcentral.com) - [RSS](https://plantmethods.biomedcentral.com/articles/most-recent/rss.xml) :seedling: :dna:
+
+47. Integrative and Comparative Biology - [Home](https://academic.oup.com/icb?login=false) - [RSS](https://academic.oup.com/rss/site_5294/3160.xml) :seedling: :stethoscope:
+
+48. Journal of Ginseng Research - :unlock: [Home](https://www.journals.elsevier.com/journal-of-ginseng-research) - [RSS](https://rss.sciencedirect.com/publication/science/12268453) :seedling: :dna: :stethoscope:
+
+49. Mycological Progress - [Home](https://www.springer.com/journal/11557) - [RSS](https://link.springer.com/search.rss?search-within=Journal&facet-journal-id=11557&query=) :seedling: 
+
+50. Plant and Soil - [Home](https://www.springer.com/journal/11104) - [RSS](https://link.springer.com/search.rss?search-within=Journal&facet-journal-id=11104&query=) :seedling:
+
 <!--# 
 
 ## Example2 {name=example2}
